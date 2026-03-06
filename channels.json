@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-03-06",
+  "channels": [
+    {
+      "id": "UCVGNTipjdcbaTKK_xeyO5pg",
+      "name": "KAZIM HOCA PRATİK FİZİK",
+      "url": "https://www.youtube.com/@kazimhocapratikfizik4367"
+    },
+    {
+      "id": "UCWOLwO_Hu8MFr8FbHMhvvVA",
+      "name": "Soner Akıncı MATEMATİK",
+      "url": "https://www.youtube.com/@SonerAkinciMatematik"
+    },
+    {
+      "id": "UC0G4-8qj8ZhDw8iKoEbtUTg",
+      "name": "3D Yayınları",
+      "url": "https://www.youtube.com/c/3DYayinlari"
+    },
+    {
+      "id": "UCyohoF5P2JFvc3KLLZRwDug",
+      "name": "Rüştü Hoca ile Türkçe",
+      "url": "https://www.youtube.com/@RustuHocaileTurkce"
+    },
+    {
+      "id": "UCpwzd_LivzU7guJ33tgkCQA",
+      "name": "Meschemy Kimya",
+      "url": "https://www.youtube.com/@meschemykimya"
+    },
+    {
+      "id": "UC0yco2kB3xW3WI__8E8HaKw",
+      "name": "Ferrum",
+      "url": "https://www.youtube.com/@yferrum"
+    },
+    {
+      "id": "UCx4651yGDx7DR6KiyxG_CUA",
+      "name": "Altuğ Güneş FİZİK",
+      "url": "https://www.youtube.com/@altuggunesfizik"
+    },
+    {
+      "id": "UCzMVi_CPx_XB9uhMl4uWR9g",
+      "name": "Mert Hoca",
+      "url": "https://www.youtube.com/@merthoca"
+    },
+    {
+      "id": "UCQx5edSyK65ZO28gRZ60xUA",
+      "name": "VIP FİZİK",
+      "url": "https://www.youtube.com/@vipfizik"
+    },
+    {
+      "id": "UCsuxWHwp0tNqPBCl_bLhanA",
+      "name": "Biosem Biyoloji",
+      "url": "https://www.youtube.com/@Biosem"
+    },
+    {
+      "id": "UCbv-0vMCnLqwlZXUWoI4a5w",
+      "name": "Eyüp B. Matematik Geometri",
+      "url": "https://www.youtube.com/@EyupB"
+    },
+    {
+      "id": "UC1X0FciySnrdUZld0O_tDXw",
+      "name": "Kenan Kara ile Geometri",
+      "url": "https://www.youtube.com/@KenanKaraileGeometri"
+    },
+    {
+      "id": "UCS8-IknQd5RBtkxAenq4S-g",
+      "name": "Tunç Kurt Matematik",
+      "url": "https://www.youtube.com/@TuncKurtMatematik"
+    },
+    {
+      "id": "UCY7Nh-CV3qqaWTxldlG4RCA",
+      "name": "Dr. Biyoloji",
+      "url": "https://www.youtube.com/@BArishocabiyoloji"
+    }
+  ],
+  "adblock_domains": [
+    "googlesyndication.com",
+    "doubleclick.net",
+    "ad.youtube.com",
+    "ads.youtube.com",
+    "googleads.g.doubleclick.net",
+    "pubads.g.doubleclick.net",
+    "securepubads.g.doubleclick.net",
+    "pagead2.googlesyndication.com",
+    "tpc.googlesyndication.com",
+    "www.googleadservices.com"
+  ]
+}
