@@ -1,6 +1,7 @@
 {
   "version": 1,
   "lastUpdated": "2026-03-06",
+  "youtube_api_key": "",
   "channels": [
     {
       "id": "UCVGNTipjdcbaTKK_xeyO5pg",
@@ -71,6 +72,11 @@
       "id": "UCY7Nh-CV3qqaWTxldlG4RCA",
       "name": "Dr. Biyoloji",
       "url": "https://www.youtube.com/@BArishocabiyoloji"
+    },
+    {
+      "id": "UC_IRxSYYyDa4Li9lxAM4xbQ",
+      "name": "Özcan Aykın FİZİK",
+      "url": "https://www.youtube.com/@ozcanAykinFiZiK-y2k"
     }
   ],
   "adblock_domains": [
