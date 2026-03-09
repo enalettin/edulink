@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-06",
+  "lastUpdated": "2026-03-09",
   "youtube_api_key": "",
   "channels": [
     {
@@ -77,6 +77,11 @@
       "id": "UC_IRxSYYyDa4Li9lxAM4xbQ",
       "name": "Özcan Aykın FİZİK",
       "url": "https://www.youtube.com/@ozcanAykinFiZiK-y2k"
+    },
+    {
+      "id": "UCIvX31CHx2RsFQM46qbjuJA",
+      "name": "Coğrafyanın Kodları",
+      "url": "https://www.youtube.com/@cografyaninkodlari"
     }
   ],
   "adblock_domains": [
