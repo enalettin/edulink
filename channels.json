@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09",
+  "lastUpdated": "2026-03-11",
   "youtube_api_key": "",
   "channels": [
     {
@@ -82,6 +82,11 @@
       "id": "UCIvX31CHx2RsFQM46qbjuJA",
       "name": "Coğrafyanın Kodları",
       "url": "https://www.youtube.com/@cografyaninkodlari"
+    },
+    {
+      "id": "UCKDyBD-CvgM8cIfVKZlLarg",
+      "name": "Matematik Avcısı",
+      "url": "https://www.youtube.com/@matematikavcsi"
     }
   ],
   "adblock_domains": [
