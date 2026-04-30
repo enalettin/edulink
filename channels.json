@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-04-07",
+  "lastUpdated": "2026-04-30",
   "youtube_api_key": "",
   "channels": [
     {
@@ -107,6 +107,11 @@
       "id": "UCooJ3GA5zLWnrV-qWupXakg",
       "name": "Fizikle Barış ",
       "url": "https://www.youtube.com/@Fiziklebaris"
+    },
+    {
+      "id": "UCpSoYaeMaujnXspqGU4RoCg",
+      "name": "GÖRKEM ŞAHİN",
+      "url": "https://www.youtube.com/@gorkemsahinn"
     }
   ],
   "adblock_domains": [
