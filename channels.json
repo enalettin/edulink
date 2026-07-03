@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-30",
+  "lastUpdated": "2026-07-03",
   "youtube_api_key": "",
   "channels": [
     {
@@ -122,6 +122,11 @@
       "id": "UCoFmCzRW8mhsm_pstF1lTpQ",
       "name": "ORİJİNAL YAYINLARI",
       "url": "https://www.youtube.com/@orijinalmatematik"
+    },
+    {
+      "id": "UC7KiAraTwc3etHLQ8J2eeaQ",
+      "name": "Üç Dört Beş Yayınları",
+      "url": "https://www.youtube.com/@ucdortbesyayincilik"
     }
   ],
   "adblock_domains": [
