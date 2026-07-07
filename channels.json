@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-03",
+  "lastUpdated": "2026-07-07",
   "youtube_api_key": "",
   "channels": [
     {
@@ -127,6 +127,16 @@
       "id": "UC7KiAraTwc3etHLQ8J2eeaQ",
       "name": "Üç Dört Beş Yayınları",
       "url": "https://www.youtube.com/@ucdortbesyayincilik"
+    },
+    {
+      "id": "UCHmS7x1-tMNI2B6KY2XK33g",
+      "name": "Fizik Gezegeni",
+      "url": "https://www.youtube.com/@FizikGezegeni"
+    },
+    {
+      "id": "UCbIOzYvwXdvFGxt70WD2Y2A",
+      "name": "Ertan Sinan Şahin",
+      "url": "https://www.youtube.com/@ertansinansahin"
     }
   ],
   "adblock_domains": [
