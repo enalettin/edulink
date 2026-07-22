@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-07",
+  "lastUpdated": "2026-07-22",
   "youtube_api_key": "",
   "channels": [
     {
@@ -137,6 +137,11 @@
       "id": "UCbIOzYvwXdvFGxt70WD2Y2A",
       "name": "Ertan Sinan Şahin",
       "url": "https://www.youtube.com/@ertansinansahin"
+    },
+    {
+      "id": "UCzxj9SKkLuDhdxSDXxcmwqQ",
+      "name": "Rehber Matematik",
+      "url": "https://www.youtube.com/@RehberMatematik"
     }
   ],
   "adblock_domains": [
